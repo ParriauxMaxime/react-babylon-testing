@@ -12,7 +12,10 @@
     "test:watch": "nwb test-react --server"
   },
   "dependencies": {
+    "babylon": "^6.17.4",
+    "babylonjs": "^3.1.0-alpha1",
     "react": "^15.6.1",
+    "react-babylonjs": "^0.0.8",
     "react-dom": "^15.6.1"
   },
   "devDependencies": {

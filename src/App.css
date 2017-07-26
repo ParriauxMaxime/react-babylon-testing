@@ -4,7 +4,8 @@
   text-align: center;
   display: flex;
   flex-direction: column;
-  justify-content: stretch;
+  justify-content: center;
+  align-items: center;
 }
 
 .App-flex {
